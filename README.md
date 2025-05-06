@@ -15,6 +15,8 @@ This repo will be regularly updated with Jupyter Notebooks covering:
   - Model Building
   - Supervised & Unsupervised Learning Algorithms
   - Model Evaluation
+  - projects
+
 
 ## 🚀 Purpose
 
