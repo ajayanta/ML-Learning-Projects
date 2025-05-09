@@ -1,4 +1,4 @@
-Ml-Learning-Projects(machine learning)
+Machine Learning-Projects
 Welcome! This repository contains my personal learning journey as I progress through the CampusX 100 Days of Machine Learning course.
 
 Contents
