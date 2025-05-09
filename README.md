@@ -17,7 +17,7 @@ YData Profiling (formerly known as Pandas Profiling)
      -feature Scaling
         -Standardization
    
-
+for 10 15 days we will be working on feature engineering
 Upcoming Topics
 
 Model Building
