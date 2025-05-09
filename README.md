@@ -12,11 +12,13 @@ Bivariate & Multivariate Analysis
 
 YData Profiling (formerly known as Pandas Profiling)
 
+-Feature Engineering
+   -feature Transformation
+     -feature Scaling
+        -Standardization
+   
+
 Upcoming Topics
-
-Data Cleaning
-
-Feature Engineering
 
 Model Building
 
