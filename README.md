@@ -42,7 +42,7 @@ Practice Git & GitHub usage
 Datasets
 Datasets used are either from:
 
-Public sources
+Public sources(like kaggle etc)
 
 Provided by CampusX course
 
