@@ -1,57 +1,43 @@
-Machine Learning-Projects
-Welcome! This repository contains my personal learning journey as I progress through the CampusX 100 Days of Machine Learning course.
+# Machine Learning Projects
 
-Contents
-This repo will be regularly updated with Jupyter Notebooks covering:
+**Welcome!** This repository documents my personal journey in learning Machine Learning. It serves as a central hub for all my practice notebooks, organized notes, and project work.
 
-Exploratory Data Analysis (EDA)
+##  Contents Covered
 
-Univariate Analysis
+This repository includes Jupyter Notebooks and notes on the following topics:
 
-Bivariate & Multivariate Analysis
+- Exploratory Data Analysis (EDA)
+  - Univariate Analysis  
+  - Bivariate & Multivariate Analysis  
+  - Automated EDA using YData Profiling (formerly Pandas Profiling)
 
-YData Profiling (formerly known as Pandas Profiling)
+- Feature Engineering
+  - Feature Transformation  
+    - Feature Scaling  
+      - Standardization  
 
--Feature Engineering
-   -feature Transformation
-     -feature Scaling
-        -Standardization
-   
-for 10 15 days we will be working on feature engineering
-Upcoming Topics
+- Model Building  
+- Supervised Learning Algorithms  
+- Unsupervised Learning Algorithms  
+- Model Evaluation  
+- Mini Projects
 
-Model Building
+## Purpose
 
-Supervised & Unsupervised Learning Algorithms
+This repository helps me to:
+- Revise concepts quickly  
+- Track my learning progress  
+- Stay organized  
+- Practice using Git & GitHub  
 
-Model Evaluation
+##  Datasets
 
-Projects
+The datasets used in this repository are sourced from:
+- Public platforms (e.g., Kaggle)
+- Educational datasets provided during learning
 
-Purpose
-This repository helps me:
+##  Note
 
-Revise concepts quickly
+This repository is for **learning and revision** purposes only.
 
-Track my learning progress
-
-Keep my work organized
-
-Practice Git & GitHub usage
-
-Datasets
-Datasets used are either from:
-
-Public sources(like kaggle etc)
-
-Provided by CampusX course
-
-Status
-Project: Ongoing
-
-Currently focused on: Exploratory Data Analysis (EDA), including Univariate, Bivariate & Multivariate Analysis, and YData Profiling
-
-Note
-This repo is for learning purposes only.
-
-Thanks for visiting!
+**Thanks for visiting!**
